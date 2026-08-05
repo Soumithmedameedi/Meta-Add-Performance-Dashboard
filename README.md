@@ -36,3 +36,7 @@ This dashboard provides a complete analysis of advertising campaign performance 
 This project helped me improve my skills in marketing analytics, campaign performance tracking, and business storytelling using Power BI.
 
 [1778951223743.pdf](https://github.com/user-attachments/files/30764111/1778951223743.pdf)
+<img width="1925" height="1487" alt="1778951223964" src="https://github.com/user-attachments/assets/908eef12-4cb5-4770-be93-9502b63de82b" />
+<img width="1925" height="1487" alt="1778951223964 (1)" src="https://github.com/user-attachments/assets/578897fd-4ef0-4cd6-8f36-bd8c58fad7e6" />
+<img width="1925" height="1487" alt="1778951223964 (2)" src="https://github.com/user-attachments/assets/564c2ebf-6d35-47ae-955a-05fa63a372ca" />
+
